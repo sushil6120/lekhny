@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "99643965343",
+    "project_id": "lekhny-2ead3",
+    "storage_bucket": "lekhny-2ead3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99643965343:android:8172e3ab8f0bbb11d8c7aa",
+        "android_client_info": {
+          "package_name": "com.lekhny.lekhnyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99643965343-pvun4lteusuiotkj4utgk2tad2mvkbm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBurb_ws1jFfvIzFGtk5gUQsaFQEyCtvx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99643965343-pvun4lteusuiotkj4utgk2tad2mvkbm6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99643965343-fam5mpuqojc3l9hl5q7mkdlmu5tpg04d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lekhny.lekhnyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

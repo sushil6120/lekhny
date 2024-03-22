@@ -1,0 +1,88 @@
+{
+  "home" : " ہوم",
+  "test_text" : "Good Morning, Have a good day",
+  "greetings" :  "آداب",
+  "6DayHeading" : "٦ دن کا کمپیٹیشن",
+  "6DayBody" : "روزانہ 6 دن کے مقابلے میں حصہ لیں اور پائیں 10 پوائنٹس",
+  "yourReads" : "آپ کی پڑھی گئیں پوسٹس",
+  "readersChoice" : "پڑھنے والوں کی پسند",
+  "specialForYou" : "اسپیشل آپکے لئے",
+  "topSeries" : "ٹاپ سیریج",
+  "newPosts" : "نئی تخلیقات",
+  "dailyContestWinners" : "مقابلے کے وننیرس",
+  "lekhnyTrophy" : "لیکھنی ٹرافی",
+  "yourCurrentRank" : "آپکی رینک",
+  "yourCurrentLevel" : "آپکارینک سطح",
+  "howLekhnyTrophySysytemWorks" : "لیکھنی تھروفی سسٹم کیسے کام کرتا ہے۔",
+  "upcomingBookAd" : "آنے والی کتاب کااشتہار",
+  "activeWriters" : "ایکٹو رائٹرز",
+  "readMore": "مزید پڑھ",
+  "seeAll" : "تمام دیکھیں",
+  "seeWhoGotTheMostLikes" : "دیکھیں کہ اس ہفتے کس کو سب سے زیادہ لائکس اور سب سے زیادہ فالوورز ملے ہیں۔",
+  "goToWeeklyLeaderboard" : "ہفتہ وار لیڈر بورڈ پر جائیں۔",
+  "mostReadPosts" : "سب سے زیادہ پڑھی جانے والی پوسٹس",
+  "dailyCompetitionsTopics" : "روزانہ مقابلے کے عنوانات",
+  "enterNow" : "Enter Now",
+
+
+
+
+  "write" : "لکھیں",
+  "writeTagline" : "ناول، کہانیاں، نظم، ویب سیریز، مختصر کہانیاں وغیرہ لکھیں اور شائع کریں۔",
+  "takePart" : "آج کے تحریری مقابلے میں حصہ لیں۔",
+  "unpublishedPosts" : "انپبلشید پوسٹ اور ڈرافٹ",
+  "editAddPartsPosts" : "شائع شدہ پوسٹ میں ترمیم اور نیا حصہ",
+  "editAddPartsSeries" : "شائع شدہ سیریز میں ترمیم اور نیا حصہ",
+
+  "profile" : "پروفائل",
+  "lekhnyRank" : "لیکھنی رینک ",
+  "post" : "پوسٹ",
+  "followers" : "فولوورز",
+  "following" : "فولوونگ",
+  "trophy" : "ٹرافی",
+  "redeemPoints" : "پوائنٹس ریڈیم",
+  "convertYourEarnedPoints" : "اپنے حاصل کردہ پوائنٹس کو تبدیل کریں۔",
+  "editProfile" : "ایڈٹ پروفائل",
+  "share" : "شیر",
+  "library" : "لائبریری",
+  "dashbard" : "دیش بورڈ",
+  "yourStories" : "آپ کی پوسٹ",
+  "published" : "شائع پوسٹ",
+  "drafts" : "ڈرافٹ",
+  "series" : "سریز",
+
+
+
+
+  "availablePoints" : "دستیاب پوائنٹس",
+  "redeemPoints" : "ریڈیم پوائنٹس",
+  "youNeedMinimum" : "آپ کو ریڈیم پوائنٹس کے لیے کم از کم 150 پوائنٹس کی ضرورت ہے۔",
+  "requestMorePoints" : "پوائنٹس کے لئے درخواست کرے",
+  "pointsHistory" : "پوائنٹس ہسٹری",
+  "congratulations" : "مبارک ہو۔",
+  "youHaveEarned" : "آپ نے لکھنی جوائن کرنے پر ١٠٠ پوائنٹس حاصل کر لئے ہی",
+  "pointsEarned" : "پوائنٹس حاصل کیے",
+  "historyPostsLike" : "پوسٹ کے لائک سے ملے سبھی پوائنٹس کی ہسٹری",
+  "pointsCredited" : "پوائنٹس کریڈٹ",
+  "historyAddedByLekhny" : "لکھنی کی طرف سے دیے گے پوائنٹس کی ہسٹری",
+  "pointsDeducted" : "کاٹے گے پوائنٹس",
+  "historyPublishingPost" : "پوسٹ کرنے مے کاٹے گے پوائنٹس کی ہسٹری",
+  "redeemPoints" : "ریڈیم پوائنٹس",
+  "historyRedeemPoints" : "ریڈیم پوائنٹس کی اپنی تمام ماضی کی لین دین کی تاریخ دیکھیں",
+  "pointsRequestStatus" : "پوائنٹس کی درخواست کی حیثیت",
+  "checkStatus" : "گزشتہ تمام پوائنٹس کی درخواست کی اپنی حیثیت کو چیک کریں۔",
+
+  "enterContest": "Enter Contest",
+  "todayTopics" : "Today's Topics",
+
+  "read": "Read",
+
+  "lekhnyWeeklyRank": "ہفتہ وار درجہ لکھنی",
+  "mostPosts": "موسٹ پوسٹ",
+  "mostLikes": "موسٹ لائک",
+  "mostFollowers" : "موسٹ فولوور",
+
+  "contests" : "مقابلہ",
+
+  "category" : "اقسام"
+}

@@ -1,0 +1,90 @@
+{
+  "home" : "होम",
+  "test_text" : "Good Morning, Have a good day",
+  "greetings" :  "नमस्ते,",
+  "6DayHeading" : "दैनिक लेखन प्रतियोगिता",
+  "6DayBody" : "रोज 6 दिन तक प्रतियोगिता में भाग ले,और पाए 10 पॉइंट",
+  "yourReads" : "आपकी पढ़ी गयी रचनाएँ",
+  "readersChoice" : "पाठकों की पसंद",
+  "specialForYou" : "खास आपके लिए",
+  "topSeries" : "टॉप सीरीज",
+  "newPosts" : "नई रचनाएँ",
+  "dailyContestWinners" : "दैनिक प्रतियोगिता के विजेता",
+  "lekhnyTrophy" : "लेखनी ट्रॉफी",
+  "yourCurrentRank" : "आपका वर्तमान पद",
+  "yourCurrentLevel" : "आपका वर्तमान स्तर",
+  "howLekhnyTrophySysytemWorks" : "लेखनी ट्रॉफी सिस्टम कैसे काम करता है ?",
+  "upcomingBookAd" : "आने वाली किताबो का विज्ञापन",
+  "activeWriters" : "सक्रिय लेखक",
+  "readMore": "और पढ़ें",
+  "seeAll" : "सभी देखें",
+  "seeWhoGotTheMostLikes" : "देखें कि इस सप्ताह किसे सबसे ज्यादा लाइक्स और सबसे ज्यादा फॉलोअर्स मिले।",
+  "goToWeeklyLeaderboard" : "साप्ताहिक लीडरबोर्ड पर जाएं",
+  "mostReadPosts" : "सबसे ज्यादा पढ़ी जाने वाली रचनाएं",
+  "dailyCompetitionsTopics" : "दैनिक प्रतियोगिता के विषय",
+  "enterNow" : "भाग लें",
+
+
+
+  "write" : "लिखें",
+  "writeTagline" : "उपन्यास, कहानी, कविता, वेब सीरीज, लघु कथाएँ आदि लिखें और प्रकाशित करें",
+  "takePart" : "आज की लेखन प्रतियोगिता में भाग लें",
+  "unpublishedPosts" : "अप्रकाशित पोस्ट / ड्राफ्ट",
+  "editAddPartsPosts" : "अपने प्रकाशित पोस्ट में भाग जोड़ें या एडिट करें",
+  "editAddPartsSeries" : "अपने प्रकाशित सीरीज में भाग जोड़ें या एडिट करें",
+
+
+
+
+  "profile" : "प्रोफ़ाइल",
+  "lekhnyRank" : "लेखनी रैंक",
+  "post" : "पोस्ट",
+  "followers" : "फ़ॉलोअर्स ",
+  "following" : "फॉलोइंग",
+  "trophy" : "ट्रॉफी",
+  "redeemPoints" : "पॉइंट्स रिडीम करें",
+  "convertYourEarnedPoints" : "अपने प्राप्त पॉइंट्स को रुपयों में बदलें",
+  "editProfile" : "प्रोफाइल एडिट करे",
+  "share" : "शेयर",
+  "library" : "लाइब्रेरी",
+  "dashbard" : "डेशबोर्ड",
+  "yourStories" : "Your Stories",
+  "published" : "Published",
+  "drafts" : "Drafts",
+  "series" : "Series",
+
+
+
+
+  "availablePoints" : "अवेलेबल पॉइंट्स",
+  "redeemPoints" : "रिडीम पॉइंट्स",
+  "youNeedMinimum" : "रिडीम करने के लिए आपको न्यूनतम 150 पॉइंट्स चाहिए",
+  "requestMorePoints" : "पॉइंट्स लेने के लिए अनुरोध करें",
+  "pointsHistory" : "पॉइंट्स हिस्ट्री",
+  "congratulations" : "बधाई हो",
+  "youHaveEarned" : "आपने लेखनी ज्वाइन करने पर 100 पॉइंट्स अर्जित कर लिए है",
+  "pointsEarned" : "अर्जित पॉइंट्स",
+  "historyPostsLike" : "पोस्ट के लाइक से मिले सभी पॉइंट्स की हिस्ट्री",
+  "pointsCredited" : "पॉइंट क्रेडिट",
+  "historyAddedByLekhny" : "लेखनी द्वारा दिए गए पॉइंटस की हिस्ट्री",
+  "pointsDeducted" : "काटे गए पॉइंट्स",
+  "historyPublishingPost" : "प्रकशित पोस्ट के लिए कटे पॉइंट्स की हिस्ट्री",
+  "redeemPoints" : "रिडीम पॉइंट्स",
+  "historyRedeemPoints" : "रिडीम पॉइंट्स के अपने पिछले ट्रांजकशन की हिस्ट्री",
+  "pointsRequestStatus" : "पॉइंट्स के अनुरोध का स्टेटस",
+  "checkStatus" : "पिछले अपने सभी पॉइंट्स अनुरोध की स्थिति",
+
+  "enterContest": "प्रतियोगिता में भाग लें",
+  "todayTopics" : "आज के टॉपिक",
+
+  "read": "पढ़े",
+
+  "lekhnyWeeklyRank": "लेखनी सप्ताहिक रेंक",
+  "mostPosts": "मोस्ट पोस्ट",
+  "mostLikes": "मोस्ट लाइक",
+  "mostFollowers" : "मोस्ट फॉलोअर",
+
+  "contests" : "प्रेतियोगिता",
+
+  "category" : "Category"
+}
